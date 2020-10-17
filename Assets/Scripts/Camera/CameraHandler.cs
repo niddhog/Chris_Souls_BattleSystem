@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+//Handling the camera
+
 namespace CA
 {
     public class CameraHandler : MonoBehaviour
